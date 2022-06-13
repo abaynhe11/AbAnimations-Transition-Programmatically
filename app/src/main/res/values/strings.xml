@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AbAnimations-Transition Programmatically</string>
+    <string name="click">Click</string>
+    <string name="to_left">To Left</string>
+    <string name="to_right">To Right</string>
+</resources>
